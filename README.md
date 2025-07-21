@@ -3,13 +3,6 @@
 ## 🎯 Project Overview
 
 This project explores a data-driven approach to improve the effectiveness of direct marketing campaigns for a food company. A pilot campaign involving 2,240 customers resulted in a 15.4% success rate and financial loss. This analysis identifies key customer segments and builds predictive models to maximize future campaign profitability and ROI.
-
-The work aligns closely with the role of Business Intelligence Analyst by showcasing skills in:
-- Data analysis and visualization
-- Market segmentation and targeting
-- Predictive modeling (Random Forest, Naive Bayes, Decision Tree)
-- Statistical testing and business case development
-
 ---
 
 ## 🔍 Business Objective
