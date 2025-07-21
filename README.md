@@ -83,22 +83,11 @@ Insignificant predictors (e.g., deal purchases) were excluded to improve model c
 
 ---
 
-## 💼 Role Alignment: Business Intelligence Analyst at iPullRank
-
-This project demonstrates:
-- Advanced data segmentation & market research
-- Predictive analytics and campaign optimization
-- Actionable insights for digital strategy
-- Strong Python, ML, and visualization skills
-- Outcome-focused, client-ready reporting
-
----
 
 ## 📎 Files in This Repo
 
 - `FoodMarketingAnalysis.ipynb`: Python notebook with EDA, modeling, and evaluation
 - `ifood_df.csv`: Cleaned dataset
-- `Market Analysis Report.pdf`: Visual storytelling report with insights and business recommendations
 - `README.md`: Project summary and documentation
 
 ---
