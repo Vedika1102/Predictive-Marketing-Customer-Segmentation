@@ -3,6 +3,7 @@
 ## 🎯 Project Overview
 
 This project explores a data-driven approach to improve the effectiveness of direct marketing campaigns for a food company. A pilot campaign involving 2,240 customers resulted in a 15.4% success rate and financial loss. This analysis identifies key customer segments and builds predictive models to maximize future campaign profitability and ROI.
+
 ---
 
 ## 🔍 Business Objective
